@@ -1,5 +1,10 @@
 # Local Deep Research - Windows Setup Guide
 
+
+This Repo are installation for Local Deep Research
+https://github.com/LearningCircuit/local-deep-research
+
+
 > Quick installation and run guide for Windows
 
 ---
